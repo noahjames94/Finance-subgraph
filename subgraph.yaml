@@ -1,6 +1,6 @@
 specVersion: 0.0.2
 description: Pangolin is a decentralized exchange for swapping Ethereum and Avalanche assets on Avalanche.
-repository: https://github.com/pangolindex/subgraph
+repository: https://github.com/inzamamshakir/subgraph
 schema:
   file: ./schema.graphql
 dataSources:
